@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivendra Mishra.</h1>
-<h3 align="center"> Golang/C++, Docker, K8S Developer from Bangalore, India with 9+ years of experience.</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="left">Connect with me:</h3>
